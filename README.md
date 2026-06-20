@@ -58,4 +58,4 @@ git clone https://github.com/LangYY/ai-learning-plan.git ~/.claude/skills/ai-lea
 
 ## 许可
 
-暂未指定开源许可。如需开放复用，可自行添加 LICENSE 文件。
+本项目采用 MIT 许可，详见 [LICENSE](LICENSE)。
